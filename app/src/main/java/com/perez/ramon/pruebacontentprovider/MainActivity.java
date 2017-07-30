@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button obtenerContactos;
     private int contador;
+    private int contador2;
     private TextView txtIdName;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
