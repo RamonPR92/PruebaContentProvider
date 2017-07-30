@@ -12,6 +12,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     private Button obtenerContactos;
+    private int contador;
     private TextView txtIdName;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
